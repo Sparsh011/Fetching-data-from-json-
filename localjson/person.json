@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Sparsh Chadha",
+    "age" : 20,
+    "gender" : "Male",
+    "height" : 178
+  },
+  {
+    "name" : "Hello World",
+    "age" : 10,
+    "gender" : "None",
+    "height" : 150
+  },
+  {
+    "name" : "Emma Stone",
+    "age" : 35,
+    "gender" : "Female",
+    "height" : 170
+  },
+  {
+    "name" : "Loid Forger",
+    "age" : 26,
+    "gender" : "Male",
+    "height" : 180
+  }
+]
